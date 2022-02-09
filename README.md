@@ -1,4 +1,11 @@
-# Marlin 3D Printer Firmware
+# Marlin 2.0.9.3 configurated for the Ender 3 Pro with SKR Mini E3 2.0 Board and BLTouch
+
+
+
+
+
+
+## Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
